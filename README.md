@@ -46,7 +46,7 @@ Build your own tourist scavenger hunter game guide wiki
 ## SCHEDULE
 -	MVP to be ready by 1 December
 ## TECHNOLOGY STACK
--	React JS, html 5.0, scss
+-	Flutter
 ## DOCUMENTATION
 -	To be maintained as the project progresses
 ## PLANNED FOLLOW-UP
